@@ -1,4 +1,4 @@
-# testrepo-ibm-data-science
+# test-repo-ibm-data-science
 
 ## Editing the file
 
